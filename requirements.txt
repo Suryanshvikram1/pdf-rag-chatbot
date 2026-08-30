@@ -1,26 +1,14 @@
-langchain-groq
-sentence-transformers
-chromadb
 streamlit
 
-langchain
-
-langchain-community
-
-langchain-core
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-core==0.3.74
 
 langchain-chroma
-
 langchain-groq
-
 langchain-huggingface
 
-langchain-text-splitters
-
 chromadb
-
-pypdf
-
 sentence-transformers
-
+pypdf
 python-dotenv
